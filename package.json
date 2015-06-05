@@ -1,0 +1,16 @@
+{
+  "name": "atom-coda",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "a syntax of Atom look like Coda.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "coda"
+  ],
+  "repository": "https://github.com/scsidisk/atom-coda",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
