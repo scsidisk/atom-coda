@@ -1,7 +1,7 @@
 {
   "name": "atom-coda",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "a syntax of Atom look like Coda.",
   "keywords": [
     "syntax",
